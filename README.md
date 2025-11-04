@@ -36,7 +36,7 @@
 
 这里作者仅介绍较为简单的方法。
 
-1. 打开 [https://github.com/midairlogn/ML-SEU-Exercise-Helper/blob/main/LICENSE](https://github.com/midairlogn/ML-SEU-Exercise-Helper/blob/main/LICENSE) ，登录账号。
+1. 打开 [https://tyxsjpt.seu.edu.cn/h5/#/pages/home/index](https://tyxsjpt.seu.edu.cn/h5/#/pages/home/index) ，登录账号。
 
 2. 按 `F12` (有的电脑是 `Fn + F12` )打开浏览器的开发人员工具，进入 `控制台` ( `console` )。
 
