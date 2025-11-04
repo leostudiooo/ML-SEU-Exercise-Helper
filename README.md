@@ -24,6 +24,9 @@
 
 等待弹出成功窗口(见下图)，就可以在微信小程序中看到上传的跑步记录了。
 
+### 隐藏功能
+**可以补之前的跑步记录，也可以超前跑哦~**
+
 ![Screenshot-Success](screenshots/success.png)
 
 ### Token获取说明
