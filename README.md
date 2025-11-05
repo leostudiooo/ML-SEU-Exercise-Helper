@@ -40,9 +40,13 @@
 
 2. 按 `F12` (有的电脑是 `Fn + F12` )打开浏览器的开发人员工具，进入 `控制台` ( `console` )。
 
-3. 展开 `request res========` 后面的 `object` ，找到 `request.hearders.token` 。
+3. 展开 `request res========` 后面的 `object` ，找到 `request.headers.token` 。
 
 4. 右键复数字符串内容。**注意: 不需要引号!**
+
+#### 图解
+
+![screenshot-Get-Token](screenshots/get-token.png)
 
 ## 声明
 
