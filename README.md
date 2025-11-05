@@ -13,7 +13,7 @@
 ![Screenshot-Main](screenshots/main-page.png)
 
 ## 使用方法
-下载 `Release` 中的最新版本，用浏览器打开 `.html` 。(推荐在电脑上操作)
+下载 [Release](https://github.com/midairlogn/ML-SEU-Exercise-Helper/releases) 中的最新版本，用浏览器打开 `.html` 。(推荐在电脑上操作)
 
 填入你的Token，选择场地、时间，并上传两张照片作为开始、结束照片。
 
