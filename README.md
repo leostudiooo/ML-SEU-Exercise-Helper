@@ -48,17 +48,25 @@
 
 ![screenshot-Get-Token](screenshots/get-token.png)
 
+##### 顺便提一嘴较为复杂的方法。
+
+打开相应的微信小程序, 用CE搜索: `Bearer ey`, 复制找到的Token即可。
+
 ## 声明
 
-本项目遵循 [GPLv3 许可](LICENSE)。这主要意味着以下几点：
-- 你可以自由使用、修改和分发本项目的代码。
-- 你可以在任何地方使用本项目的代码，但如果你修改了代码并分发了修改后的版本，你必须在同样的许可下分发，也就是说你必须在 `GPLv3` 下开源你的修改。
+本项目遵循 [GPLv3 许可](LICENSE)，请保持代码开源，切勿商业化。
 
-我们反对使用本项目获取任何形式的商业利益，包括但不限于：
-- 使用本项目提供收费的服务；
-- 将本项目的代码或修改后的代码作为商业产品出售；
-- 等等。
+**作者不对用户使用本项目可能造成的后果负责，也不对用户使用本项目上传的数据真实性负责。**
 
-**软件按“原样”（as-is）提供，不附带任何明示或暗示的担保，包括但不限于对特定用途适用性的担保。作者不对因使用本软件产生的任何直接或间接损失、数据丢失、法律责任或其他风险承担责任。**
+## 郑重声明
 
-**本项目基于学习和研究目的开发。软件不对用户上传数据的真实性、准确性、完整性和合法性负责。用户应对其上传的数据承担全部责任，确保其符合实际情况。**
+本项目由作者使用抓包、分析官方网页 [https://tyxsjpt.seu.edu.cn/h5/#/pages/home/index](https://tyxsjpt.seu.edu.cn/h5/#/pages/home/index) 源代码、使用 `Cheat Engine` 分析微信小程序等方法进行研究后，在AI的辅助下编写，无意中与 [leostudiooo](https://github.com/leostudiooo) 的另外一个仓库 [GOOSE](https://github.com/leostudiooo/GOOSE) 有着相同的轨迹、代码逻辑等。
+
+对此，本人郑重作出如下声明：
+
+1. 本人尊重 [leostudiooo](https://github.com/leostudiooo) 开发的工具 [GOOSE](https://github.com/leostudiooo/GOOSE) 与 [PRTS](https://github.com/leostudiooo/prts)，也可以深刻体会到开发此类项目的艰辛与汗水。
+2. 对于本仓库代码逻辑和与 [GOOSE](https://github.com/leostudiooo/GOOSE) 请求体数据结构一致的现象系针对相同系统开发所至，并不存在互相的抄袭，改写现象。
+3. 我将始终保持这本项目的开源状态，也请各位使用、开发者秉承开源精神，在学习交流中共同完善项目代码。
+4. 请尊重各位志同道合的开发者们的努力与奉献。
+
+本项目历史基于 [GOOSE](https://github.com/leostudiooo/GOOSE) 的归属信息，以履行 GPL 对已分发版本的溯源义务。
