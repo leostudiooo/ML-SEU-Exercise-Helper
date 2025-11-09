@@ -26,11 +26,6 @@
 
 等待弹出成功提示窗口(见下图)，就可以在微信小程序中看到上传的跑步记录了。
 
-### 隐藏功能
-**可以补之前的跑步记录，也可以超前跑哦~**
-
-![Screenshot-Success](screenshots/success.png)
-
 ### Token获取说明
 > Token形如 `Bearer [part1].[part2].[part3]`。
 
@@ -54,19 +49,21 @@
 
 ## 声明
 
-本项目遵循 [GPLv3 许可](LICENSE)，请保持代码开源，切勿商业化。
+本项目遵循 [GPLv3 许可](LICENSE)，强烈反对任何形式的商业化使用。
 
 **作者不对用户使用本项目可能造成的后果负责，也不对用户使用本项目上传的数据真实性负责。**
 
-## 郑重声明
+## 致谢 / Credits
 
-本项目由作者使用抓包、分析官方网页 [https://tyxsjpt.seu.edu.cn/h5/#/pages/home/index](https://tyxsjpt.seu.edu.cn/h5/#/pages/home/index) 源代码、使用 `Cheat Engine` 分析微信小程序等方法进行研究后，在AI的辅助下编写，无意中与 [leostudiooo](https://github.com/leostudiooo) 的另外一个仓库 [GOOSE](https://github.com/leostudiooo/GOOSE) 有着相同的轨迹、代码逻辑等。
+本项目部分内容基于或参考 [GOOSE](https://github.com/leostudiooo/GOOSE) 项目。
 
-对此，本人郑重作出如下声明：
+Portions of this project are based on GOOSE (GOOSE Opens workOut for SEU undErgraduates):
+- Repository: https://github.com/leostudiooo/GOOSE
+- Copyright © 2025 GOOSE Team
+- Licensed under GPL-3.0: https://www.gnu.org/licenses/gpl-3.0.html
 
-1. 本人尊重 [leostudiooo](https://github.com/leostudiooo) 开发的工具 [GOOSE](https://github.com/leostudiooo/GOOSE) 与 [PRTS](https://github.com/leostudiooo/prts)，也可以深刻体会到开发此类项目的艰辛与汗水。
-2. 对于本仓库代码逻辑和与 [GOOSE](https://github.com/leostudiooo/GOOSE) 请求体数据结构一致的现象系针对相同系统开发所至，并不存在互相的抄袭，改写现象。
-3. 我将始终保持这本项目的开源状态，也请各位使用、开发者秉承开源精神，在学习交流中共同完善项目代码。
-4. 请尊重各位志同道合的开发者们的努力与奉献。
+感谢 GOOSE 团队的开源贡献，本项目包含了 GOOSE 的 GPS 运动轨迹数据。
 
-本项目历史基于 [GOOSE](https://github.com/leostudiooo/GOOSE) 的归属信息，以履行 GPL 对已分发版本的溯源义务。
+**本项目的所有修改和改编内容版权归 Midairlogn 所有，同样遵循 GPL-3.0 许可证。**
+
+详细信息请参阅 [NOTICE](NOTICE) 文件。
